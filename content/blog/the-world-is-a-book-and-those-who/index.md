@@ -3,8 +3,7 @@ title: "The world is a book and those who do not travel read only one page."
 date: 2021-03-25
 thumbnail: woman-traveling.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Animal"
 tags: ["Pet", "Lifestyle"]
 ---

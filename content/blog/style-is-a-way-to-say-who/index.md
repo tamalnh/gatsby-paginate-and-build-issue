@@ -3,8 +3,7 @@ title: "Style is a way to say who you are without having to speak"
 date: 2021-03-25
 thumbnail: women-fashions.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Food"
 tags: ["Travel", "Lifestyle"]
 ---

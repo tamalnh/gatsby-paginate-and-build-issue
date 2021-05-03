@@ -3,8 +3,7 @@ title: "The greatest glory in living lies not in never falling, but in rising ev
 date: 2021-03-25
 thumbnail: woman-potrait.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Travel"
 tags: ["Pet", "Lifestyle", "Food"]
 ---

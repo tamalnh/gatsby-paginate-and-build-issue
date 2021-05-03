@@ -3,8 +3,7 @@ title: "We denounce with righteous indignation"
 date: 2021-03-25
 thumbnail: woman-eating.jpg
 featured: false
-published: true
-showInTopPost: true
+published: true 
 category: "Food"
 tags: ["Diet", "Lifestyle"]
 ---

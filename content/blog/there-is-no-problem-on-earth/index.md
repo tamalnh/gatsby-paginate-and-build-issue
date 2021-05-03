@@ -3,8 +3,7 @@ title: "There is no problem on earth that can’t be ameliorated by a hot bath a
 date: 2021-03-25
 thumbnail: drinking-tea.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Food"
 tags: ["Travel", "Lifestyle"]
 ---

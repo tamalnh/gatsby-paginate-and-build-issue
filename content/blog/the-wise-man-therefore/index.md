@@ -3,8 +3,7 @@ title: "The wise man therefore always holds in these"
 date: 2021-03-25
 thumbnail: man-writing.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Travel"
 tags: ["Adventure", "Lifestyle"]
 ---

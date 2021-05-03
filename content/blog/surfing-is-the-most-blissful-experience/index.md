@@ -3,8 +3,7 @@ title: "Surfing is the most blissful experience you can have on this planet, a t
 date: 2021-03-25
 thumbnail: girl-surfing.jpg
 featured: false
-published: true
-showInTopPost: false
+published: true 
 category: "Food"
 tags: ["Travel", "Lifestyle"]
 ---
